@@ -1,0 +1,11 @@
+# Compiled binary
+main
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
